@@ -108,5 +108,4 @@ git rm -rf --cached $projectName.xcworkspace/           &> /dev/null
 git rm -rf --cached $projectName.xcodeproj/xcuserdata/`whoami`.xcuserdatad/xcschemes/$projectName.xcscheme &> /dev/null
 git rm -rf --cached $projectName.xcodeproj/project.xcworkspace/xcuserdata/ &> /dev/null
 echo "clean finished"
-say "finished"
 echo "finished"

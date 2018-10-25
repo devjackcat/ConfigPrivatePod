@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "__ProjectName__"
-  s.version      = "1"
+  s.version      = "asfdasdf"
   s.summary      = "__ProjectName__."
 
   # This description is used to generate tags and improve search results.
@@ -53,10 +53,10 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "devjackcat" => "devjackcat@163.com" }
-  # Or just: s.author    = "devjackcat"
-  # s.authors            = { "devjackcat" => "devjackcat@163.com" }
-  # s.social_media_url   = ""
+  s.author             = { "CasaTaloyum" => "casatwy@msn.com" }
+  # Or just: s.author    = "CasaTaloyum"
+  # s.authors            = { "CasaTaloyum" => "casatwy@msn.com" }
+  # s.social_media_url   = "http://twitter.com/CasaTaloyum"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
